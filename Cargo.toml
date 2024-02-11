@@ -1,0 +1,18 @@
+[package]
+name = "loong"
+description = "Happy Chinese New Year 2024! It's the Year of the loong!🐉"
+version = "0.1.0"
+authors = ["Shen Lu <shenlu89dev@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/shenlu89/loong"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
