@@ -1,7 +1,7 @@
 [package]
 name = "loong"
-description = "Happy Chinese New Year 2024! It's the Year of the loong!🐉"
-version = "0.1.0"
+description = "I consent to the transfer of this crate to the first person who asks help@crates.io for it."
+version = "0.1.1"
 authors = ["Shen Lu <shenlu89dev@gmail.com>"]
 edition = "2021"
 repository = "https://github.com/shenlu89/loong"
